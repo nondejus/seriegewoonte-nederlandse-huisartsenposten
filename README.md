@@ -1,2 +1,9 @@
 # seriegewoonte-nederlandse-huisartsenposten
-exectuties van patienten
+
+'exectuties van patienten'
+
+# huisartsenposten
+https://nl.wikipedia.org/wiki/Huisartsenpost
+
+liquidatie
+https://nl.wikipedia.org/wiki/Liquidatie_(moord)
